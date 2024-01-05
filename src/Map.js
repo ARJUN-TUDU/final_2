@@ -19,6 +19,11 @@ const Map = [
   name : "name4",
   age : 60 ,
   id:3
+},
+{
+  name : "name4",
+  age : 60 ,
+  id:3
 }
           ]
 
